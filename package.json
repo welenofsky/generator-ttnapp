@@ -1,8 +1,7 @@
 {
   "name": "generator-ttnapp",
   "version": "0.0.0",
-  "description": "Three29 Appcelerator skeleton",
-  "homepage": "https://three29.com/",
+  "description": "TTN Appcelerator skeleton",
   "author": {
     "name": "Justin Welenofsky",
     "email": "welenofsky@gmail.com",
